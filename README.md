@@ -1,7 +1,8 @@
-#basic marathin course assingment (js assignment 1)
-this repository for the first javascript assignment of basic marathon course.the solutions of javasctipt problems are on the `assignment.js` file and the answers to the theory questions are written bellow.
+<h1>basic marathin course assingment (js assignment 1)</h1>
 
-#Questions and Answers
+<p>this repository for the first javascript assignment of basic marathon course.the solutions of javasctipt problems are on the `assignment.js` file and the answers to the theory questions are written bellow.</p>
+
+<h1>Questions and Answers</h1>
 <div class="container" style="text-align: center;width:80%;margin:auto;">
     <h3 style="color: red;">1.Explain the difference between 'if...else' and 'switch' statements for conditional logic. </h3>
 <h4 style="color:#0f0;">
